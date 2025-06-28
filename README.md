@@ -1,0 +1,1 @@
+i.	Trained Final Year Engineering Students in 1-month (50 Hours–Pre-placement Training Course)  in Data Science where I have taught them SQL, Python libraries, Data-preprocessing techniques, Data-Visualization using Tableau, MongoDB, Machine Learning and Deep Learning Frameworks, Introduction to cloud and Deployment using Pickel-Flask  (June-2023) at Inurture
